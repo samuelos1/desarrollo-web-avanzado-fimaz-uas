@@ -1,4 +1,4 @@
-# Práctica 4 – Clases en PHP con herencia y manejo de excepciones
+# Examen Practico - Parcial 1 ( POO en PHP) (CLASES, HERENCIAS Y VALIDACIONES
 
 ## Descripción
 
