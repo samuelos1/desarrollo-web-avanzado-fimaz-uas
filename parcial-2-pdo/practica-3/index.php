@@ -118,7 +118,7 @@ $logs    = $pdo->query("SELECT * FROM log_alumnos ORDER BY idLog DESC")->fetchAl
             </p>
             <button type="submit">Registrar alumno</button>
         </form>
-    </div>
+     </div>
 
     <?php if ($mensaje): ?>
         <div class="msg">
